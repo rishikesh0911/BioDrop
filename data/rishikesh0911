@@ -1,0 +1,19 @@
+
+{
+  "name": "Rishikesh B",
+  "bio": "Software Engineer React js developer",
+  "links": [
+
+
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/rishikesh-balakrishnan-589b16117/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/rishikesh0911",
+      "icon": "FaGithub"
+    }
+  ]
+}
